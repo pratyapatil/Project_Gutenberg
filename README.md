@@ -38,10 +38,7 @@ The application will be accessible at http://localhost:8000.
 
 The API documentation is available via Swagger UI. After starting the development server, navigate to http://localhost:8000/swagger/ to view the API documentation.
 
-## Deployment
-
-The application can be deployed to various hosting platforms such as Heroku, AWS, or PythonAnywhere. Refer to the hosting provider's documentation for specific deployment instructions.
-
+ 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
