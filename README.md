@@ -36,7 +36,7 @@ The application will be accessible at http://localhost:8000.
 
 ## API Documentation
 
-The API documentation is available via Swagger UI. After starting the development server, navigate to http://localhost:8000/swagger/ to view the API documentation.
+The API documentation is available via Swagger UI. After starting the development server, navigate to http://localhost:8000/ to view the API documentation.
 
  
 ## Contributing
